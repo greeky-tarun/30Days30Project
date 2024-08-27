@@ -32,8 +32,6 @@ To run this project locally, follow these steps:
 If your project requires configuration (e.g., API keys), explain how to set it up.
 
 ````markdown
-### Configuration
-
 1. **API Key**
 
    To use the OpenWeatherMap API, you need an API key. Replace `your_api_key_here` in the JavaScript code with your own API key.
