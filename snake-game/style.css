@@ -1,0 +1,40 @@
+@font-face {
+    font-family: "game";
+    src: url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;800&display=swap');
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+button:focus{
+    outline: 0;
+}
+
+html,body{
+    height: 100%;
+    font-family: "poppins", sans-serif;
+    color: #6e7888;
+}
+
+body{
+    background-color: #222738;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #6e7888;
+}
+
+.wrapper{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+canvas{
+    background-color: #181825;
+}
