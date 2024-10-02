@@ -38,3 +38,7 @@ body{
 canvas{
     background-color: #181825;
 }
+
+.container{
+    display: flex;
+}
